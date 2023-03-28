@@ -61,7 +61,7 @@ export const MENU: MenuItem[] = [
         label: 'MENUITEMS.CHAT.TEXT',
         icon: 'bx-chat',
         link: '/chat',
-        
+
     },
     {
         id: 11,
@@ -128,7 +128,7 @@ export const MENU: MenuItem[] = [
             },
         ]
     },
-    {
+    /*{
         id: 21,
         label: 'MENUITEMS.CRYPTO.TEXT',
         icon: 'bx-bitcoin',
@@ -176,7 +176,7 @@ export const MENU: MenuItem[] = [
                 parentId: 21
             }
         ]
-    },
+    },*/
     {
         id: 29,
         label: 'MENUITEMS.EMAIL.TEXT',
@@ -207,25 +207,26 @@ export const MENU: MenuItem[] = [
                         id:33 ,
                         label: 'MENUITEMS.EMAIL.LIST.TEMPLATE.LIST.BASIC',
                         link: '/email/basic',
-                        parentId:32 
+                        parentId:32
                     },
                     {
                         id:34 ,
                         label: 'MENUITEMS.EMAIL.LIST.TEMPLATE.LIST.ALERT',
                         link: '/email/alert',
-                        parentId:32 
+                        parentId:32
                     },
                     {
                         id:35 ,
                         label: 'MENUITEMS.EMAIL.LIST.TEMPLATE.LIST.BILLING',
                         link: '/email/billing',
-                        parentId:32 
+                        parentId:32
                     }
                 ]
             }
         ]
     },
-    {
+  /*
+   {
         id: 36,
         label: 'MENUITEMS.INVOICES.TEXT',
         icon: 'bx-receipt',
@@ -243,7 +244,7 @@ export const MENU: MenuItem[] = [
                 parentId: 36
             },
         ]
-    },
+    },*/
     {
         id: 39,
         label: 'MENUITEMS.PROJECTS.TEXT',
@@ -353,8 +354,8 @@ export const MENU: MenuItem[] = [
                 parentId: 52
             },
         ]
-    },
-    {
+    }
+    /*,{
         id: 56,
         label: 'MENUITEMS.PAGES.TEXT',
         isTitle: true
@@ -823,6 +824,6 @@ export const MENU: MenuItem[] = [
                 ]
             },
         ]
-    }
+    }*/
 ];
 

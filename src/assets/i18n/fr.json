@@ -176,14 +176,14 @@
     "CONTACTS": {
       "TEXT": "Utilisateurs",
       "LIST": {
-        "USERGRID": "Chef",
+        "USERGRID": "Grille",
         "USERLIST": " Liste",
         "PROFILE": "Profile"
       }
     },
     "BLOG": {
       "TEXT": "Blog",
-      "BADGE": "New",
+      "BADGE": "Nouveau",
       "LIST": {
         "BLOGLIST": "Blog List",
         "BLOGGRID": "Blog Grid",
@@ -195,7 +195,7 @@
     },
     "AUTHENTICATION": {
       "TEXT": "Authentication",
-      "BADGE": "New",
+      "BADGE": "Nouveau",
       "LIST": {
         "LOGIN": "Login",
         "LOGIN2": "Login 2",
