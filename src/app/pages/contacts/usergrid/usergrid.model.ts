@@ -5,4 +5,6 @@ export interface Usergrid {
     designation: string;
     projects: string[];
     email: string;
+
+
 }
